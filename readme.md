@@ -1,4 +1,4 @@
-**[My Project on Docker Hub QR Code](images/is601-qrcode.png)**
+**[My Project on Docker Hub QR Code](Abhishek-barcode/is601-qrcode.png)**
 
 # Docker and Python
 
