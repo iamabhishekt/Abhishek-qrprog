@@ -1,6 +1,6 @@
-**[My Project on Docker Hub QR Code](Abhishek-barcode/is601-qrcode.png)**
+# **[(Abhishek Thakur) My Project on Docker Hub QR Code](Abhishek-barcode/is601-qrcode.png)**
 
-# Docker and Python
+# Instructions for a Docker and Python Assignment
 
 For this assignment you will be combining Docker with Python to create a program that generates a QR code PNG file that
 contains a URL. The QR code can be viewed with the camera on your phone to allow a user to click on it and send them to
